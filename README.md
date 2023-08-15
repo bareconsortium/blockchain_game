@@ -1,22 +1,20 @@
 # blockchain_game
-simple arcade gaming, mixed with some smart contracts and whoo boom bam
-Here's a simplified guide to Markdown syntax for formatting your README:
 
-Headings: Use # for headings (e.g., # My Project Title).
-Subheadings: Use ##, ###, and so on for subheadings.
-Bullet Points: Use * or - for bullet points.
-Numbered Lists: Use numbers followed by a period.
-Bold Text: Wrap text with ** (e.g., **Bold Text**).
-Italic Text: Wrap text with * (e.g., *Italic Text*).
-Links: Use [text](URL) to create links.
-Images: Use ![Alt Text](URL) to embed images.
-Code Blocks: Use triple backticks (```) for code blocks with optional language specifier (e.g., `````python`).
-Quotes: Use > for blockquotes.
+A modern twist on the classic Snake game with an innovative twist of blockchain integration. This project combines the excitement of retro gaming with the transparency and security of blockchain technology.
 
+Key Features:
 
-# Blockchain Game: A Charitable Arcade Experience
+Classic Gameplay with a Twist: Experience the nostalgia of guiding the snake to collect "food" while avoiding collisions. But here's the twist: the "food" items are interactive ads powered by real-time data through Chainlink Oracles.
 
-Blockchain Game is an innovative online arcade game that utilizes smart contracts and in-game advertising to create an engaging gaming experience while promoting social impact and community involvement.
+Transparent Ad Integration: Advertisers can dynamically insert their content as in-game "food" items. These ads are securely verified by smart contracts, ensuring fairness and transparency in ad placements.
+
+Zilliqa Blockchain Integration: Our game leverages Zilliqa's blockchain technology for secure transactions, scoring records, and enhanced player experiences.
+
+Real-time Notifications: Receive instant updates about blockchain interactions, high scores, and ad-related activities, ensuring an engaging and responsive user experience.
+
+Charitable Impact: By advertising, you're contributing to charitable causes. All profits generated from advertisements go directly towards benefiting players, as they are the ones engaging with the interactive ads. Your gameplay directly supports initiatives for education, health, and community development.
+
+Join us in embracing the future of gaming, where the past meets the present through blockchain innovation. Play, advertise, and make a difference with the blockchain_game!
 
 ![Gameplay](link-to-screenshot-or-gif)
 
@@ -32,7 +30,7 @@ Blockchain Game is an innovative online arcade game that utilizes smart contract
 
 ### Concept
 
-"blockchain_game" is a decentralized web3-based online game where the objective is to eat as many blocks as possible to win digital assets. Anyone with Decentralized Identification, an authentic digital wallet address, and the willingness to play can enjoy the game. This decentralized online-arcade game establishes a symbiotic relationship between Game Designers and Players, fostering demand for in-game advertising.
+"blockchain_game" is a decentralized online game where the objective is to eat as many blocks as possible to win digital assets. Anyone with an authentic digital wallet address, and the willingness to play can enjoy the game. This decentralized online-arcade game establishes a symbiotic relationship between Game Designers and Players, fostering demand for in-game advertising.
 
 ### Rewards and Cryptocurrency
 
