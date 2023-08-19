@@ -4,9 +4,9 @@ A modern twist on the classic Snake game with an innovative twist of blockchain 
 
 Key Features:
 
-Classic Gameplay with a Twist: Experience the nostalgia of guiding the snake to collect "food" while avoiding collisions. But here's the twist: the "food" items are interactive ads powered by real-time data through Chainlink Oracles.
+Experience nostalgia with a little bit of future renaissance with interactive ads powered by real-time data.
 
-Transparent Ad Integration: Advertisers can dynamically insert their content as in-game "food" items. These ads are securely verified by smart contracts, ensuring fairness and transparency in ad placements.
+Advertisers can dynamically insert their content as in-game "food" items. These ads are securely verified by smart contracts, ensuring fairness and transparency in ad placements.
 
 Zilliqa Blockchain Integration: Our game leverages Zilliqa's blockchain technology for secure transactions, scoring records, and enhanced player experiences.
 
