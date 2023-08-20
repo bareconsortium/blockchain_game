@@ -1,8 +1,6 @@
 # blockchain_game
 
-A modern twist on the classic Snake game with an innovative twist of blockchain integration. This project combines the excitement of retro gaming with the transparency and security of blockchain technology.
-
-Key Features:
+This project combines the excitement of retro gaming with the transparency and security of blockchain technology.
 
 Classic Gameplay with a Twist: Experience the nostalgia of guiding the snake to collect "food" while avoiding collisions. But here's the twist: the "food" items are interactive ads powered by real-time data through Chainlink Oracles.
 
